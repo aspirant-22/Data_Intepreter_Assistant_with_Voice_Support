@@ -1,0 +1,5 @@
+[
+    { "region": "North", "month": "March", "sales": 500000, "target": 600000 },
+    { "region": "South", "month": "March", "sales": 620000, "target": 600000 },
+    { "region": "East",  "month": "April", "sales": 700000, "target": 680000 }
+]
