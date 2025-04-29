@@ -44,6 +44,7 @@ Data Intepreter Assistant allows users to ask questions using their voice or tex
       -  index.html
       -  style.css
       -  script.js
+- requirements.txt   
 - README.md
 
 ## 🚀 How to Run Locally
