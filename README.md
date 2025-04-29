@@ -72,16 +72,12 @@ Open Frontend
 `` Open frontend/index.html in a browser (preferably Chrome). ``
 
 
-## Screenshots
+## 🖼️ Screenshots
 
-Before Asking Assistant : 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-Response : 
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+### Before Asking Assistant : 
+![Screenshot 2025-04-29 212418](https://github.com/user-attachments/assets/0169fc69-7255-4777-8fff-cbea1a36051f)
+### Response : 
+![Screenshot 2025-04-29 212452](https://github.com/user-attachments/assets/41cb6e40-caeb-4e19-a956-b559c1ce13f6)
 
 ## 🌍 Hosting Instructions
 ### Backend (Flask):
